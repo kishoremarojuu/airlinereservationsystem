@@ -2,6 +2,16 @@
 
 SpringBoot Application that demonstrates REST API Development using Spring MVC, Spring Data JPA using Java 8 features
 
+## Coding features for developers (take away from this repo)
+1. Date conversion patters 
+2. Using hibernate sequence generators 
+3. Hibernate mappings (one to one, one to many, many to one mappings)
+4. Data loading from flatfiles on the startup using @Command line Runner 
+5. Swagger setup
+6. Exception handling scenarios 
+7. Object conversion from one pojo to other 
+
+
 ## Features
 
 This application has two primary REST end-points that provide flight-booking information. 
